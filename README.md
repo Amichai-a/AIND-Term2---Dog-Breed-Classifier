@@ -4,6 +4,15 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+__My Remarks:__ 
+
+1. This file is only the project overview, my code implemented in [dog_app.ipynb](https://github.com/Amichai-a/AIND-Term2---Dog-Breed-Classifier/blob/master/dog_app.ipynb)
+
+2. On this project I developed an algorithm to classify various dog breeds by implementing transfer learning with ResNet50 and by creating a CNN from scratch
+
+3. I was able to achieve test accuracy of 80.4%
+
+--------
 
 ## Project Overview
 
